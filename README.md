@@ -1,17 +1,16 @@
-# House Cancellation - REST API
+# House Cancellation
 
 ## ML system available with REST API.
 
 This ML service will use Python 3.11.1 and Django 4.1.6.
 
-This ML system:
+<b>This ML system:</b>
 
 <ul>
-<li>can handle many API endpoints</li>
-each API endpoint can have several ML algorithms with different versions,
-ML code and artifacts (files with ML parameters) are stored in the code repository (git),
-supports fast deployments and continuous integration (tests for both: server and ML code),
-supports monitoring and algorithm diagnostic (support A/B tests),
-is scalable (deployed with containers),
-has a user interface.
+<li>Can handle many API endpoints.</li>
+<li>Each API endpoint can have several ML algorithms with different versions.</li>
+<li>ML code and artifacts (files with ML parameters) are stored in the code repository.</li>
+<li>Supports fast deployments and continuous integration (tests for both: server and ML code).</li>
+<li>Supports monitoring and algorithm diagnostic (support A/B tests).</li>
+<li>has a user interface.</li>
 </ul>
