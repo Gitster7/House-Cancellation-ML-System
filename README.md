@@ -54,7 +54,7 @@ The online hotel reservation channels have dramatically changed booking possibil
 </ul>
 
 ### Files Structure
-.
+<!-- .
 |   db.sqlite3
 |   manage.py
 |   tree.txt
@@ -86,7 +86,7 @@ The online hotel reservation channels have dramatically changed booking possibil
     |   
     +---artifacts
     |       encoder.joblib
-    |       rf.joblib
+    |       rf.joblib -->
     
     
             
