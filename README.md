@@ -54,4 +54,4 @@ The online hotel reservation channels have dramatically changed booking possibil
 </ul>
 
 ### Screenshots
-
+<img src="./Images/api_root.png">
