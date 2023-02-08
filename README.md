@@ -30,6 +30,11 @@ To start the app:
 py manage.py runserver
 ```
 
+API Root URL:
+```
+http://127.0.0.1:8000/api/v1/
+```
+
 ### Data 
 
 <b>The model training file contained the different attributes of customers' reservation details. The detailed data dictionary is given below.</b>
