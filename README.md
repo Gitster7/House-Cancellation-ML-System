@@ -1,11 +1,9 @@
 # House Cancellation
+<h2> ML system available with REST API </h2>
 
-## ML system available with REST API.
-
-This ML service will use Python 3.11.1 and Django 4.1.6.
+This ML service will use <b>Python 3.11.1</b> and <b>Django 4.1.6</b>.
 
 <b>This ML system:</b>
-
 <ul>
 <li>Can handle many API endpoints.</li>
 <li>Each API endpoint can have several ML algorithms with different versions.</li>
@@ -14,6 +12,7 @@ This ML service will use Python 3.11.1 and Django 4.1.6.
 <li>Supports monitoring and algorithm diagnostic (support A/B tests).</li>
 <li>has a user interface.</li>
 </ul>
+
 
 ### Application
 
@@ -38,12 +37,15 @@ py manage.py runserver
 <li>ML Requests: "http://127.0.0.1:8000/api/v1/mlrequests"</li>
 </ul>
 
+<b>Make Predictions:</b>
+<ul>http://127.0.0.1:8000/api/v1/cancel_classifier/predict</li></ul>
+
+
 ### Data 
 
 <b>The model training file contained the different attributes of customers' reservation details. The detailed data dictionary is given below.</b>
 
 ### Data Dictionary
-
 <ul>
 <li><b><i>Booking_ID:</i></b> unique identifier of each booking</li>
 <li><b><i>no_of_adults:</i></b> Number of adults</li>
