@@ -53,5 +53,5 @@ The online hotel reservation channels have dramatically changed booking possibil
 <li><b><i>booking_status:</i></b> Flag indicating if the booking was canceled or not.</li>
 </ul>
 
-    
-            
+### Screenshots
+
