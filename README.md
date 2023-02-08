@@ -30,11 +30,13 @@ To start the app:
 py manage.py runserver
 ```
 
-API Root URL: http://127.0.0.1:8000/api/v1/
-API Endpoints: "http://127.0.0.1:8000/api/v1/endpoints",
-ML Algorithms: "http://127.0.0.1:8000/api/v1/mlalgorithms",
-ML Algorithm Statuses: "http://127.0.0.1:8000/api/v1/mlalgorithmstatuses",
-ML Requests: "http://127.0.0.1:8000/api/v1/mlrequests"
+<ul>
+<li>API Root URL: http://127.0.0.1:8000/api/v1/</li>
+<li>API Endpoints: "http://127.0.0.1:8000/api/v1/endpoints"</li>
+<li>ML Algorithms: "http://127.0.0.1:8000/api/v1/mlalgorithms"</li>
+<li>ML Algorithm Statuses: "http://127.0.0.1:8000/api/v1/mlalgorithmstatuses"</li>
+<li>ML Requests: "http://127.0.0.1:8000/api/v1/mlrequests"</li>
+</ul>
 
 ### Data 
 
