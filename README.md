@@ -25,6 +25,11 @@ The online hotel reservation channels have dramatically changed booking possibil
 
 <em>Predict if the customer is going to honor the reservation or cancel it.</em>
 
+To start the app:
+```
+py manage.py runserver
+```
+
 ### Data 
 
 <b>The model training file contained the different attributes of customers' reservation details. The detailed data dictionary is given below.</b>
@@ -54,7 +59,6 @@ The online hotel reservation channels have dramatically changed booking possibil
 </ul>
 
 ### Screenshots
-<h4>API ROOT</h4>
 <img src="./Images/api_root.png" alt="API Root">
 <img src="./Images/prediction.png" alt="Predictions">
 <img src="./Images/model_db.png" alt="Model DB">
