@@ -15,6 +15,16 @@ This ML service will use Python 3.11.1 and Django 4.1.6.
 <li>has a user interface.</li>
 </ul>
 
+### Application
+
+<b>Context</b>
+
+The online hotel reservation channels have dramatically changed booking possibilities and customers’ behavior. A significant number of hotel reservations are called-off due to cancellations or no-shows. The typical reasons for cancellations include change of plans, scheduling conflicts, etc. This is often made easier by the option to do so free of charge or preferably at a low cost which is beneficial to hotel guests but it is a less desirable and possibly revenue-diminishing factor for hotels to deal with.
+
+<b>Usage</b>
+
+<em>Predict if the customer is going to honor the reservation or cancel it.</em>
+
 ### Data 
 
 <b>The model training file contained the different attributes of customers' reservation details. The detailed data dictionary is given below.</b>
