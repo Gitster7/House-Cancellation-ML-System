@@ -54,8 +54,9 @@ The online hotel reservation channels have dramatically changed booking possibil
 </ul>
 
 ### Screenshots
+<h3>API ROOT</h3>
 <img src="./Images/api_root.png" alt="API Root">
-<img src="./Images/predictions.png" alt="Predictions">
+<img src="./Images/prediction.png" alt="Predictions">
 <img src="./Images/model_db.png" alt="Model DB">
 <img src="./Images/endpoint.png" alt="Endpoint">
 <img src="./Images/ml_algorithm.png" alt="ML Algorithm">
