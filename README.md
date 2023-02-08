@@ -53,40 +53,5 @@ The online hotel reservation channels have dramatically changed booking possibil
 <li><b><i>booking_status:</i></b> Flag indicating if the booking was canceled or not.</li>
 </ul>
 
-### Files Structure
-<!-- .
-|   db.sqlite3
-|   manage.py
-|   tree.txt
-|   
-+---endpoints
-|   |   admin.py
-|   |   apps.py
-|   |   models.py
-|   |   serializers.py
-|   |   tests.py
-|   |   urls.py
-|   |   views.py
-|   |   __init__.py
-|   |   
-|   |           
-+---HouseCancellation
-|   |   asgi.py
-|   |   settings.py
-|   |   urls.py
-|   |   wsgi.py
-|   |   __init__.py
-|   |   
-|           
-\---ml
-    |   cancel_classifier.py
-    |   registry.py
-    |   tests.py
-    |   __.init__.py
-    |   
-    +---artifacts
-    |       encoder.joblib
-    |       rf.joblib -->
-    
     
             
