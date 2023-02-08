@@ -30,10 +30,7 @@ To start the app:
 py manage.py runserver
 ```
 
-API Root URL:
-```
-http://127.0.0.1:8000/api/v1/
-```
+API Root URL: http://127.0.0.1:8000/api/v1/
 
 ### Data 
 
